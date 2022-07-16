@@ -1,0 +1,8 @@
+.env
+*.pyc
+*.pyo
+.installed.cfg
+bin
+logs
+tests
+Dockerfile
