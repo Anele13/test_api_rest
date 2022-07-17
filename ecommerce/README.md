@@ -11,12 +11,12 @@ Simple ecommerce con DjangoREST
 
 ### Para visualizar los endpoints en la web (Heroku): 
 
-- Ir a: https://frozen-reaches-24984.herokuapp.com/
+- Ir a: https://pure-river-51317.herokuapp.com/
     - ~/product
     - ~/order
 
 ### Autenticacion con JWT:
-- Para obtener un token de acceso Ir a: https://frozen-reaches-24984.herokuapp.com/token
+- Para obtener un token de acceso Ir a: https://pure-river-51317.herokuapp.com/token
     - ```username:admin```, ```password:admin```
 
-- Para refresco del token = https://frozen-reaches-24984.herokuapp.com/token/refresh
+- Para refresco del token = https://pure-river-51317.herokuapp.com/token/refresh
